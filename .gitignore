@@ -16,3 +16,4 @@ nginx.conf
 nginx_logs
 backups
 backup.sh
+seed.py
